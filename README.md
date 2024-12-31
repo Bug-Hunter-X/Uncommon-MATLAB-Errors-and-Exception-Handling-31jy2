@@ -1,0 +1,1 @@
+This repository demonstrates a couple of uncommon errors that can occur in MATLAB.  The 'bug.m' file shows examples of these errors. The 'bugSolution.m' file provides improved versions that handle the errors gracefully.  Read the comments in the code for details.
